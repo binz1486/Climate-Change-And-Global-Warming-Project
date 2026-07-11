@@ -3,6 +3,7 @@
 A machine learning project analyzing 265 years of global land temperature 
 and CO2 emissions data to forecast global temperature in 2050 and identify 
 the fastest-warming regions on Earth.
+All Datasets files and related information can be found on https://drive.google.com/drive/folders/1IMbxsfS_X8Z1uAvAZ4kFAO3lvjf4dKyR?usp=sharing
 
 ## Overview
 
