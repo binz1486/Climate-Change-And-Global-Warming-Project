@@ -56,3 +56,7 @@ University of Narowal — BS Computer Science, CSC 351 (Machine Learning)
 
 This project is for academic purposes. Data sources retain their 
 original licenses (Kaggle/Berkeley Earth/OWID).
+
+## Datasets Details
+
+All Datasets files and related information can be found on https://drive.google.com/drive/folders/1IMbxsfS_X8Z1uAvAZ4kFAO3lvjf4dKyR?usp=sharing
